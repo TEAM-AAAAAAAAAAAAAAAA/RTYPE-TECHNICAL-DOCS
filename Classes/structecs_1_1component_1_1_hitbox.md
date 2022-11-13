@@ -67,4 +67,4 @@ Toogle used to know if we need to enable or disable the HitBox
 
 -------------------------------
 
-Updated on 2022-11-13 at 17:15:13 +0100
+Updated on 2022-11-13 at 17:21:37 +0100
