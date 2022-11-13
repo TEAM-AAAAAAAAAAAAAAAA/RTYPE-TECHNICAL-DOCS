@@ -147,10 +147,8 @@
   * [InputMap.cpp](Files/_input_map_8cpp.md)
   * [InputMap.hpp](Files/_input_map_8hpp.md)
   * [Window.cpp](Files/_window_8cpp.md)
-  * [Window.hpp](Files/_window_8hpp.md)
   * [README.md](Files/_r_e_a_d_m_e_8md.md)
 * [Pages](index_pages.md)
   * [deprecated](Pages/deprecated.md)
-* [Examples](index_examples.md)
 
 * [GitHub](https://github.com/TEAM-AAAAAAAAAAAAAAAA/RTYPE)
